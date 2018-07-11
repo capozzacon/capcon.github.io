@@ -90,4 +90,8 @@ body, html{
 	h2 {
 		font-size: 1.5em;
 	}
+	
+	.box-a {
+		padding-bottom: 30px;
+	}
 }
