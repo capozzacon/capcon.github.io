@@ -85,4 +85,8 @@ body, html{
 		font-size: 2em;
 		padding-top: 20px;
 	}
+	
+	h2 {
+		font-size: 1.5em;
+	}
 }
