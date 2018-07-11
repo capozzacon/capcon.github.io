@@ -94,4 +94,8 @@ body, html{
 	.box-a {
 		padding-bottom: 30px;
 	}
+	
+	body, html {
+		overflow: unset;
+	}
 }
