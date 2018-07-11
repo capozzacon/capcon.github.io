@@ -80,4 +80,9 @@ body, html{
 		width: auto;
 		max-width: 100%;
 	}
+	
+	h1 {
+		font-size: 2em;
+		padding-top: 20px;
+	}
 }
