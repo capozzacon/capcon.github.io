@@ -101,11 +101,11 @@ body, html{
 	.box-a {
 		padding-bottom: 1px;
 		padding-top: 10px;
-		background-color: #EF3639;
+		background-color: #FFFFFF;
 	}
 	
 	.box-b {
-		background-color: #246DE9;
+		background-color: #FFFFFF;
 	}
 	
 	body, html {
@@ -115,7 +115,7 @@ body, html{
 	
 	.box-c {
 		height: 300px;
-		background-color: #F1EE1C
+		background-color: #FFFFFF;
 	}
 	
 	.gif {
